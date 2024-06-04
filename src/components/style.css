@@ -1,0 +1,24 @@
+
+div {
+    margin-bottom: 20px;
+    text-align: center; 
+  }
+  
+.list {
+    display: flex;
+    justify-content:right;
+    padding-right:10px;
+    list-style-type: none;
+ }
+
+.nav{
+    color: rgb(114, 113, 113);
+    margin-right:10px; 
+    text-decoration: none;
+    font-weight: 750;
+    
+  }
+  
+.nav:hover {
+    color: rgb(39, 134, 218);
+  }
